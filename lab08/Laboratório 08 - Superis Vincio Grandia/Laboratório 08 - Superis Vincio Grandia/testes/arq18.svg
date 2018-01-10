@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg  height='920' width='1067' xmlns='http://www.w3.org/2000/svg' >
+<rect height='920' width='1067' style='fill:#33dd33;' />
+<!--
+C
+C
+S -1 1
+T 533.6934 0
+C
+S -1 -1
+T 533.6934 460.4884
+C
+S 1 -1
+T 0 460.4884
+C
+T 533.6934 0
+C
+S -1 1
+T 1067.3868 0
+C
+S -1 -1
+T 1067.3868 460.4884
+C
+S 1 -1
+T 533.6934 460.4884
+C
+T 533.6934 460.4884
+C
+S -1 1
+T 1067.3868 460.4884
+C
+S -1 -1
+T 1067.3868 920.9768
+C
+S 1 -1
+T 533.6934 920.9768
+C
+T 0 460.4884
+C
+S -1 1
+T 533.6934 460.4884
+C
+S -1 -1
+T 533.6934 920.9768
+C
+S 1 -1
+T 0 920.9768
+-->
+<polygon points='353.449,412.192 401.745,328.541 485.397,280.244 533.693,280.244 533.693,460.488 353.449,460.488' style='fill: #1155ff; stroke:#1155ff;stroke-width:2' />
+<polygon points='180.244,412.192 180.244,460.488 266.847,460.488 266.847,362.192 ' style='fill: #ff0088; stroke:#ff0088;stroke-width:2' />
+<polygon points='266.847,98.296 216.847,180.244 266.847,180.244 ' style='fill: #aaaa11; stroke:#aaaa11;stroke-width:2' />
+<polygon points='401.745,131.948 485.397,180.244 485.397,230.244 316.847,230.244 316.847,180.244 ' style='fill: #ff0088; stroke:#ff0088;stroke-width:2' />
+</svg>

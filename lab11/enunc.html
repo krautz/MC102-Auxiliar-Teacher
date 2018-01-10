@@ -1,0 +1,218 @@
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Laboratório 11 - Gremlins</title>
+    <style>
+        body {
+            background-color: #f1f1f1;
+            font-family: sans-serif;
+            padding: 30px;
+        }
+        
+        h1 {
+            font-size: 16pt;
+        }
+        
+        .codigo {
+            /* Utilizado para expressar códigos fonte no enunciado */
+            font-size: 11pt;
+            color: maroon;
+        }
+        
+        .entrada {
+            /* Utilizado para expressar dados de entrada */
+            font-size: 11pt;
+            color: blue;
+        }
+        
+        .saida {
+            /* Utilizado para expressar informações de saídas */
+            font-size: 11pt;
+            color: black;
+        }
+        
+        .pixel {
+            font-size: 11pt;
+            color: maroon;
+            width: 30px;
+            padding-left: 5px;
+            text-align: left;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <div style="width: 100%; display: table-cell; content-align:middle; text-align:center; vertical-align:middle;">
+            <h1>Instituto de Computação - UNICAMP</h1>
+            <h2>MC102 - Algoritmos e Programação de Computadores</h2>
+        </div>
+        <div style="width:20%;display: table-cell; vertical-align: middle;">
+            <img src="ic.png" width="120px">
+        </div>
+        <hr>
+        <div>
+            <h2>Laboratório 11: Gremlins</h2>
+            <h3>Segunto Semestre de 2017 - Turmas Coordenadas</h3>
+            <p>Peso da Atividade: 1</p>
+            <p>Prazo de Entrega: <u>19 de novembro de 2017 às 23:59:59</u></p>
+        </div>
+
+        <div style="margin-top:30px;">
+            <h3>Conteúdo</h3>
+            <div style="margin-left:20px;">
+                <a href="#contexto">Contexto</a>
+                <br>
+                <a href="#tarefa">Tarefa</a>
+                <br>
+                <a href="#observacoesDaTarefa">Observações da Tarefa</a>
+                <br>
+                <a href="#exemplos">Exemplos</a>
+                <br>
+                <a href="#observacoes">Observações Gerais</a>
+                <br>
+                <a href="#criterios">Critérios Importantes</a>
+                <br>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div id="contexto" style="margin-top: 20px;">
+        <h3>Contexto</h3>
+
+        <div style="width: 50%; text-align: left; display: block; margin: 0 auto;">
+            <h4><em><strong>Ernh! Ernh! Ernh! Ernh! Ernnnnnhhhhhhh!</strong></em></h3>
+            <p style="margin: -10px 0 20px 180px"><small>Gremlin dizendo para você ir logo se divertir com o laboratório.</small></p>
+        </div>
+
+        <div style="text-align:center;" id="figura1">
+            <a href="gizmo1.jpg"><img src="gizmo1.jpg" width="350px"></a>
+            <br>
+            <i>Figura 1: Um Mogwai chamado Gizmo.</i>
+        </div>
+       <div style="text-align:center;" id="figura1">
+            <a href="gizmo.gif"><img src="gizmo.gif" width="350px"></a>
+            <br>
+            <i>Figura 2: Gizmo, o fofo.</i>
+        </div>
+        
+       <p>Os Mogwais são pequenas criaturas bem fofas e adoráveis criadas pelo cientista Mogturmen em um planeta bem distante da Terra. Mogturmen criou os Mogwais para serem os seres mais bondosos e adoráveis do Universo, com a intenção de promover a paz e estabelecer a harmonia em toda a galáxia. Para que os Mogwais pudessem alcançar a maior quantidade possível de planetas, o cientista os desenvolveu com habilidades de sobrevivência e reprodução incríveis.</p> 
+
+       <p>Porém, por vários erros de cálculo, Mogturmen descobriu que as criaturas eram frágeis em alguns ambientes e que nem sempre eram bondosas e adoráveis. Na verdade, três leis deveriam ser respeitadas para o bem de um Mogwai (e de todos ao seu redor).</p>
+
+       <p>
+       <ul>
+         <li>Não os coloque perto da luz, especialmente luz solar. Isso pode matá-los.</li>
+         <li>Não os molhe! Não dê água a eles e nem banhos. Se um Mogwai se molhar, bolinhas de pêlo saem de suas costas transformando-se em outros Mogwais.</li>
+         <li>E a lei mais importante: não os alimente depois da meia-noite! Não importa o quanto eles implorem ou chorem, NUNCA faça isso! 
+       </ul>
+       <p>
+
+       <p>Se um Mogwai se alimentar depois da meia-noite, ele sofre mutação e se transforma em uma criatura horrorosa e maligna, chamada <strong>Gremlin</strong>. Os dois primeiros cuidados com os Mogwais também se aplicam aos Gremlins. Os Gremlins sempre tem um líder, esse líder é sempre chamado de Cérebro.</p>
+
+       <div align="center">
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/tAUAA8jkF4k" frameborder="0" allowfullscreen></iframe>
+       </div>
+
+       <p>Por alguma propriedade misteriosa hereditária entre os Gremlins, o líder Cérebro sempre gosta de jogar o "jogo dos 42".
+Lembre-se sempre deste conselho: se você encontrar o Cérebro, não perca o jogo!</p>
+
+<p>O jogo funciona da seguinte forma. Cérebro, ansioso por alguma diversão, te entrega a um bando de Gremlins. Os Gremlins podem fazer o que quiserem com você, caso você perca o jogo (eles geralmente adoram explodir as coisas). O objetivo do jogo é bem simples: inicialmente, todos os Gremlins e você são colocados dentro de um círculo demarcado, malignamente, por Cérebro; posteriormente, seguindo as regras especificadas abaixo, você deve fazer sucessivas escolhas de grupos de Gremlins para saírem do círculo, de maneira que, ao final, sobrem EXATAMENTE 42 Gremlins junto com você dentro do círculo.</p>
+
+<p>A escolha de quantos Gremlins saem do círculo deve respeitar pelo menos uma das regras a seguir, considerando <code class="codigo">n</code>, o número total de Gremlins dentro do círculo.
+    <ul>
+        <li>Se <code class="codigo">n</code> é par, você pode indicar n/2 Gremlins para ficar para fora do círculo.</li>
+        <li>Se <code class="codigo">n</code> é divísivel por 3 ou 4, então você pode multiplicar os dois últimos dígitos de <code class="codigo">n</code> e indicar essa quantidade para fora do círculo.</li>
+        <li>Se <code class="codigo">n</code> é divisível por 5, então você pode excluir exatamente 42 Gremlins.</li> 
+    </ul>  
+</i>
+</p>
+<p>A escolha de qual regra adotar, a cada passo, é livre. Por exemplo, suponha que dentro do círculo estejam 250 Gremlins. Você poderia fazer as seguintes escolhas:
+     <ol>
+        <li>Você começa com 250 Gremlins dentro do círculo.</li>
+        <li>Como 250 é divisível por 5, você pode colocar 42 Gremlins para fora do círculo, deixando dentro do círculo 208 Gremlins.</li>
+        <li>Como 208 é par, você pode colocar metade dos Gremlins para fora do círculo, deixando 104 Gremlins dentro do círculo.</li>
+        <li>Como 104 é par, você pode colocar metade dos Gremlins para fora do círculo, deixando 52 Gremlins dentro do círculo. </li> 
+        <li>Como 52 é divisível por 4, você pode multiplicar os dois últimos digítos de 52 (resultando em 10) e excluir 10 Gremlins do círculo. Isso te deixa com 42 Gremlins dentro do círculo.</li>
+        <li>Pronto! O objetivo foi alcançado e você escapou! Note, entretanto, que tanto no passo 2 como no passo 5, você poderia ter usado a regra do <code class="codigo">n</code> par. Em ambos os casos, você morreria (verifique você mesmo estes casos).</li>
+    </ol> 
+</i></p>
+     
+    <p>Cérebro sabe a resposta para qualquer número de Gremlins e te dá a oportunidade de salvar sua pele com "o jogo dos 42".</p>        
+    <hr>
+
+    <p>Este laboratório é baseado no filme <a href="https://en.wikipedia.org/wiki/Gremlins">"Gremlins"</a>.</p>
+    </div>
+
+    <hr>
+    <div id="tarefa" style="margin-top: 20px;">
+        <h3>Tarefa</h3>
+
+        <p>Seu objetivo é determinar se, com um número inicial <code class="codigo">n</code> de Gremlins, <code class="codigo">n</code> &ge; 1, dentro do círculo e considerando as regras descritas anteriormente, é possível ou não separá-los para que sobre exatamente 42 Gremlins dentro do círculo. A entrada do seu programa é o número de Gremlins <code class="codigo">n</code>. A saída do seu programa será <code class="codigo">Sim</code>, caso isso seja possível, e <code class="codigo">Nao</code> caso contrário.</p>
+
+        
+    </div>
+    <hr>
+    <div id="observacoesDaTarefa" style="margin-top: 20px;">
+        <p><strong>Observações da Tarefa</strong></p>
+        <ul>
+            <li>Você <i>deve</i> inserir uma quebra de linha <code class="codigo">\n</code> após imprimir <code class="codigo">Sim</code> ou <code class="codigo">Nao</code>.</li>            
+            <li>Você deve implementar e utilizar uma função recursiva para resolver o problema. Não é permitido para esta atividade utilizar estruturas de repetição.</li>
+        </ul>
+    </div>
+    <hr>
+    <div id="exemplos" style="margin-top: 20px;">
+        <h3>Exemplos</h3>
+        <div style="margin-left:30px; margin-top:15px; margin-bottom:15px; border: solid 2px #ccc;  display: inline-block; padding:10px;">
+            <p><i>Notas:</i>
+                <br>
+                <br> Textos em <code class="entrada">azul</code> designam dados de entrada, isto é, que devem ser lidos pelo seu programa.
+                <br> Textos em <code class="saida">preto</code> designam dados de saída, ou seja, que devem ser impressos pelo seu programa.</p>
+        </div>
+        <p><strong>Exemplo de execução 1: </strong></p>
+        <div style="margin-left:30px;">
+            <p><code class="entrada">
+                250<br>
+               </code>
+            </p>              
+            <p><code class="saida">Sim</code></p>
+        </div>       
+        <p><strong>Exemplo de execução 2: </strong></p>
+        <div style="margin-left:30px;">
+            <p><code class="entrada">
+                300<br>
+               </code>
+            </p>              
+            <p><code class="saida">Nao</code></p>
+        </div>       
+    </div>
+    <hr>
+    <div id="observacoes" style="margin-top: 20px;">
+        <h3>Observações Gerais</h3>
+        <ul>
+            <li>O número máximo de submissões é 20.</li>
+            <li>O arquivo <code class="codigo">lab11.c</code> deve conter todo o seu programa.</li>
+            <li>Para a realização dos testes automáticos, a compilação se dará da seguinte forma: <code class="codigo">gcc lab11.c -o lab11 -Wall -Werror -ansi -pedantic</code> .</li>
+            <li>Não se esqueça de incluir no início do programa uma breve descrição dos objetivos, da entrada, da saída, seu nome, RA e turma. </li>
+            <li>Após cada submissão, você deve aguardar um minuto até poder submeter seu trabalho novamente. </li>
+            <li>Ao final deste laboratório, você terá aprendido como utilizar funções recursivas.</li>
+        </ul>
+    </div>
+    <hr>
+    <div id="criterios" style="margin-top: 20px;">
+        <h3>Critérios Importantes</h3>
+
+        <p>O <b>não</b> cumprimento dos critérios abaixo acarretará em <span style="color:red;font-weight: bold;">nota zero na atividade</span>, independentemente dos resultados dos testes do SuSy.</p>
+        <ul>
+            <li>Sua solução deve atender todos os requisitos definidos no enunciado.</li>
+            <li>Não serão aceitas soluções contendo estruturas não vistas em sala (para este laboratório, poderão ser utilizadas apenas variáveis simples, vetores, matrizes, operações de entrada e saída, operações aritméticas, desvios condicionais, strings, funções, apontadores, <i>structs</i> e recursão). </li>
+            <li>Não é permitido o uso de <code class="codigo">continue</code> e <code class="codigo">break</code> (exceto em estruturas do tipo <i>switch-case</i>).</li>
+            <li>Não é permitido o uso de variáveis globais.</li>            
+            <li>Seu programa deve conter uma chamada a uma função recursiva.</li>
+            <li>O único cabeçalho aceito para inclusão é <code class="codigo">stdio.h</code>.</li>
+        </ul>
+    </div>
+</body>
+
+</html>

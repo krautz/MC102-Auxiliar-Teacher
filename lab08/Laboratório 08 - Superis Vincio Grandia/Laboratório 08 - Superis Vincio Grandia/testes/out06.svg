@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width='1400' height='1000' xmlns='http://www.w3.org/2000/svg' viewBox="-200 -800 1400 1000"  >
+<rect x='-200' y='-800' width='1400' height='1000' style='fill:#ffffff;stroke:none;' />
+<g id='contours' style='fill:none;stroke:black;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;'>
+	<rect x='0' y='-600' width='1100' height='600' />
+	<polyline points='200,0 200,10'   />
+	<polyline points='400,0 400,10'   />
+	<polyline points='600,0 600,10'   />
+	<polyline points='800,0 800,10'   />
+	<polyline points='1000,0 1000,10' />
+	<polyline points='0,-100 -10,-100' />
+	<polyline points='0,-200 -10,-200' />
+	<polyline points='0,-300 -10,-300' />
+	<polyline points='0,-400 -10,-400' />
+	<polyline points='0,-500 -10,-500' />
+</g>
+<g style="font-size:32px;font-family:'Liberation Serif';text-anchor:middle;fill:#00;fill-opacity:1;stroke:none;">
+	<text>
+		<tspan y="40" x="200">2.0</tspan>
+		<tspan y="40" x="400">4.0</tspan>
+		<tspan y="40" x="600">6.0</tspan>
+		<tspan y="40" x="800">8.0</tspan>
+		<tspan y="40" x="1000">10.0</tspan>
+		<tspan x="-40" y="-90">100</tspan>
+		<tspan x="-40" y="-190">200</tspan>
+		<tspan x="-40" y="-290">300</tspan>
+		<tspan x="-40" y="-390">400</tspan>
+		<tspan x="-40" y="-490">500</tspan>
+		<tspan x="500"  y="-680" style="font-size:40px;">Exemplo de boxplot</tspan>
+		<tspan x="500"  y="110">Eixo x</tspan>
+	</text>
+	<text transform="rotate(270 -120 -300)">
+		<tspan y="-300" x="-120" >Eixo y</tspan>
+	</text>
+</g>
+<polygon points='200.000,-30.000 200.000,-117.500 ' style='fill:none;stroke:black;stroke-width:3;stroke-dasharray:6,6;' />
+<polygon points='400.000,-270.000 400.000,-95.000 ' style='fill:none;stroke:black;stroke-width:3;stroke-dasharray:6,6;' />
+<polygon points='600.000,-100.000 600.000,-350.000 ' style='fill:none;stroke:black;stroke-width:3;stroke-dasharray:6,6;' />
+<polygon points='800.000,-300.000 800.000,-425.000 ' style='fill:none;stroke:black;stroke-width:3;stroke-dasharray:6,6;' />
+<polygon points='1000.000,-560.000 1000.000,-285.000 ' style='fill:none;stroke:black;stroke-width:3;stroke-dasharray:6,6;' />
+<polygon points='170.000,-117.500 230.000,-117.500 ' style='fill:none;stroke:black;stroke-width:3;' />
+<polygon points='430.000,-95.000 370.000,-95.000 ' style='fill:none;stroke:black;stroke-width:3;' />
+<polygon points='570.000,-350.000 630.000,-350.000 ' style='fill:none;stroke:black;stroke-width:3;' />
+<polygon points='770.000,-425.000 830.000,-425.000 ' style='fill:none;stroke:black;stroke-width:3;' />
+<polygon points='1030.000,-285.000 970.000,-285.000 ' style='fill:none;stroke:black;stroke-width:3;' />
+<polygon points='170.000,-30.000 230.000,-30.000 ' style='fill:none;stroke:black;stroke-width:3;' />
+<polygon points='430.000,-270.000 370.000,-270.000 ' style='fill:none;stroke:black;stroke-width:3;' />
+<polygon points='570.000,-100.000 630.000,-100.000 ' style='fill:none;stroke:black;stroke-width:3;' />
+<polygon points='770.000,-300.000 830.000,-300.000 ' style='fill:none;stroke:black;stroke-width:3;' />
+<polygon points='1030.000,-560.000 970.000,-560.000 ' style='fill:none;stroke:black;stroke-width:3;' />
+<polygon points='150.000,-100.000 150.000,-65.000 250.000,-65.000 250.000,-100.000 ' style='fill:white;stroke:black;stroke-width:3;' />
+<polygon points='450.000,-130.000 450.000,-200.000 350.000,-200.000 350.000,-130.000 ' style='fill:white;stroke:black;stroke-width:3;' />
+<polygon points='550.000,-300.000 550.000,-200.000 650.000,-200.000 650.000,-300.000 ' style='fill:white;stroke:black;stroke-width:3;' />
+<polygon points='750.000,-400.000 750.000,-350.000 850.000,-350.000 850.000,-400.000 ' style='fill:white;stroke:black;stroke-width:3;' />
+<polygon points='1050.000,-340.000 1050.000,-450.000 950.000,-450.000 950.000,-340.000 ' style='fill:white;stroke:black;stroke-width:3;' />
+<polygon points='150.000,-89.500 250.000,-89.500 ' style='fill:none;stroke:black;stroke-width:6;' />
+<polygon points='450.000,-151.000 350.000,-151.000 ' style='fill:none;stroke:black;stroke-width:6;' />
+<polygon points='550.000,-270.000 650.000,-270.000 ' style='fill:none;stroke:black;stroke-width:6;' />
+<polygon points='750.000,-385.000 850.000,-385.000 ' style='fill:none;stroke:black;stroke-width:6;' />
+<polygon points='1050.000,-373.000 950.000,-373.000 ' style='fill:none;stroke:black;stroke-width:6;' />
+</svg>

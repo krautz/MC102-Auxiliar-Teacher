@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg  height='2400' width='1200' xmlns='http://www.w3.org/2000/svg' >
+<rect height='2400' width='1200' style='fill:#000100;' />
+<text text-anchor="middle" x="600" y="2000" font-size="80" fill="white" font-family="Symbol, Times" font-style="italic">t = 2 ⋅ v ⋅ sen(θ)</text>
+<text text-anchor="middle" x="650" y="2020" font-size="80" fill="white">__________</text>
+<text text-anchor="middle" x="650" y="2100" font-size="80" fill="white" font-family="Symbol, Times" font-style="italic">g</text>
+<!--
+C
+T	0	0
+C
+T	50	-370
+C
+T	100	-700
+C
+T	150	-990
+C
+T	200	-1240
+C
+T	250	-1450
+C
+T	300	-1620
+C
+T	350	-1750
+C
+T	400	-1840
+C
+T	450	-1890
+C
+T	500	-1900
+C
+T	550	-1870
+C
+T	600	-1800
+C
+T	650	-1690
+C
+T	700	-1540
+C
+T	750	-1350
+C
+T	800	-1120
+C
+T	850	-850
+C
+T	900	-540
+C
+T	950	-190
+C
+T	1000	200
+-->
+<polygon points='105.00,2005.00 105.00,2005.09' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='115.00,1995.00 115.00,1995.09' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='135.00,1975.00 135.00,1975.09' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+</svg>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width='1200' height='1200' xmlns='http://www.w3.org/2000/svg' viewBox="-600 -600 1200 1200" >
+<rect x='-600' y='-600' width='1200' height='1200' style='fill:#ffffff;stroke:none;' />
+<!--
+C S 0.35 1 R -70 T -500 0 R 10
+C S 0.65 1 R -50 T -500 0 R 10
+C S 0.85 1 R -30 T -500 0 R 10
+C S 1.00 1 R -10 T -500 0 R 10
+C S 1.00 1 R  10 T -500 0 R 10
+C S 0.85 1 R  30 T -500 0 R 10
+C S 0.65 1 R  50 T -500 0 R 10
+C S 0.35 1 R  70 T -500 0 R 10
+
+C S 0.35 1 R -70 T -500 0 R 50
+C S 0.65 1 R -50 T -500 0 R 50
+C S 0.85 1 R -30 T -500 0 R 50
+C S 1.00 1 R -10 T -500 0 R 50
+C S 1.00 1 R  10 T -500 0 R 50
+C S 0.85 1 R  30 T -500 0 R 50
+C S 0.65 1 R  50 T -500 0 R 50
+C S 0.35 1 R  70 T -500 0 R 50
+
+C S 0.35 1 R -70 T -500 0 R 90
+C S 0.65 1 R -50 T -500 0 R 90
+C S 0.85 1 R -30 T -500 0 R 90
+C S 1.00 1 R -10 T -500 0 R 90
+C S 1.00 1 R  10 T -500 0 R 90
+C S 0.85 1 R  30 T -500 0 R 90
+C S 0.65 1 R  50 T -500 0 R 90
+C S 0.35 1 R  70 T -500 0 R 90
+
+C S 0.35 1 R -70 T -500 0 R 130
+C S 0.65 1 R -50 T -500 0 R 130
+C S 0.85 1 R -30 T -500 0 R 130
+C S 1.00 1 R -10 T -500 0 R 130
+C S 1.00 1 R  10 T -500 0 R 130
+C S 0.85 1 R  30 T -500 0 R 130
+C S 0.65 1 R  50 T -500 0 R 130
+C S 0.35 1 R  70 T -500 0 R 130
+
+C S 0.35 1 R -70 T -500 0 R 170
+C S 0.65 1 R -50 T -500 0 R 170
+C S 0.85 1 R -30 T -500 0 R 170
+C S 1.00 1 R -10 T -500 0 R 170
+C S 1.00 1 R  10 T -500 0 R 170
+C S 0.85 1 R  30 T -500 0 R 170
+C S 0.65 1 R  50 T -500 0 R 170
+C S 0.35 1 R  70 T -500 0 R 170
+
+C S 0.35 1 R -70 T -500 0 R 210
+C S 0.65 1 R -50 T -500 0 R 210
+C S 0.85 1 R -30 T -500 0 R 210
+C S 1.00 1 R -10 T -500 0 R 210
+C S 1.00 1 R  10 T -500 0 R 210
+C S 0.85 1 R  30 T -500 0 R 210
+C S 0.65 1 R  50 T -500 0 R 210
+C S 0.35 1 R  70 T -500 0 R 210
+
+C S 0.35 1 R -70 T -500 0 R 250
+C S 0.65 1 R -50 T -500 0 R 250
+C S 0.85 1 R -30 T -500 0 R 250
+C S 1.00 1 R -10 T -500 0 R 250
+C S 1.00 1 R  10 T -500 0 R 250
+C S 0.85 1 R  30 T -500 0 R 250
+C S 0.65 1 R  50 T -500 0 R 250
+C S 0.35 1 R  70 T -500 0 R 250
+
+C S 0.35 1 R -70 T -500 0 R 290
+C S 0.65 1 R -50 T -500 0 R 290
+C S 0.85 1 R -30 T -500 0 R 290
+C S 1.00 1 R -10 T -500 0 R 290
+C S 1.00 1 R  10 T -500 0 R 290
+C S 0.85 1 R  30 T -500 0 R 290
+C S 0.65 1 R  50 T -500 0 R 290
+C S 0.35 1 R  70 T -500 0 R 290
+
+C S 0.35 1 R -70 T -500 0 R 330
+C S 0.65 1 R -50 T -500 0 R 330
+C S 0.85 1 R -30 T -500 0 R 330
+C S 1.00 1 R -10 T -500 0 R 330
+C S 1.00 1 R  10 T -500 0 R 330
+C S 0.85 1 R  30 T -500 0 R 330
+C S 0.65 1 R  50 T -500 0 R 330
+C S 0.35 1 R  70 T -500 0 R 330
+-->
+<polygon points='0,0 1000,0' style='fill:none;stroke:black;stroke-width:6;stroke-linejoin:round;stroke-opacity:1;' />
+<polygon points='0,0 0,0.09' style='fill:none;stroke:black;stroke-width:52;stroke-linejoin:round;stroke-opacity:1;' />
+<polygon points='0,0 0,0.09' style='fill:none;stroke:blue;stroke-width:40;stroke-linejoin:round;stroke-opacity:1;' />
+</svg>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width='1400' height='1000' xmlns='http://www.w3.org/2000/svg' viewBox="-200 -800 1400 1000"  >
+<rect x='-200' y='-800' width='1400' height='1000' style='fill:#ffffff;stroke:none;' />
+<g id='contours' style='fill:none;stroke:black;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;'>
+	<rect x='0' y='-600' width='1100' height='600' />
+	<polyline points='200,0 200,10'   />
+	<polyline points='400,0 400,10'   />
+	<polyline points='600,0 600,10'   />
+	<polyline points='800,0 800,10'   />
+	<polyline points='1000,0 1000,10' />
+	<polyline points='0,-100 -10,-100' />
+	<polyline points='0,-200 -10,-200' />
+	<polyline points='0,-300 -10,-300' />
+	<polyline points='0,-400 -10,-400' />
+	<polyline points='0,-500 -10,-500' />
+</g>
+<g style="font-size:32px;font-family:'Liberation Serif';text-anchor:middle;fill:#00;fill-opacity:1;stroke:none;">
+	<text>
+		<tspan y="40" x="200">2.0</tspan>
+		<tspan y="40" x="400">4.0</tspan>
+		<tspan y="40" x="600">6.0</tspan>
+		<tspan y="40" x="800">8.0</tspan>
+		<tspan y="40" x="1000">10.0</tspan>
+		<tspan x="-40" y="-90">100</tspan>
+		<tspan x="-40" y="-190">200</tspan>
+		<tspan x="-40" y="-290">300</tspan>
+		<tspan x="-40" y="-390">400</tspan>
+		<tspan x="-40" y="-490">500</tspan>
+		<tspan x="500"  y="-680" style="font-size:40px;">Exemplo de boxplot</tspan>
+		<tspan x="500"  y="110">Eixo x</tspan>
+	</text>
+	<text transform="rotate(270 -120 -300)">
+		<tspan y="-300" x="-120" >Eixo y</tspan>
+	</text>
+</g>
+<!--
+C R   0 T 0   0 S 1 0.35 T  200 -100
+C R 180 T 0 100 S 1 0.7  T  400 -200
+C R   0 T 0   0 S 1 1.0  T  600 -300
+C R   0 T 0   0 S 1 0.5  T  800 -400
+C R 180 T 0 100 S 1 1.1  T 1000 -450
+-->
+<polygon points='0,200 0,-50' style='fill:none;stroke:black;stroke-width:3;stroke-dasharray:6,6;' />
+<polygon points='-30,-50 30,-50' style='fill:none;stroke:black;stroke-width:3;' />
+<polygon points='-30,200 30,200' style='fill:none;stroke:black;stroke-width:3;' />
+<polygon points='-50,0 -50,100 50,100 50,0 ' style='fill:white;stroke:black;stroke-width:3;' />
+<polygon points='-50,30  50,30' style='fill:none;stroke:black;stroke-width:6;' />
+</svg>

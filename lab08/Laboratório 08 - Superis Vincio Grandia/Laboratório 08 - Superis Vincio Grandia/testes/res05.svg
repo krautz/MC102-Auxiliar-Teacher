@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg  height='2400' width='1200' xmlns='http://www.w3.org/2000/svg' >
+<rect height='2400' width='1200' style='fill:#000100;' />
+<text text-anchor="middle" x="600" y="2000" font-size="80" fill="white" font-family="Symbol, Times" font-style="italic">t = 2 ⋅ v ⋅ sen(θ)</text>
+<text text-anchor="middle" x="650" y="2020" font-size="80" fill="white">__________</text>
+<text text-anchor="middle" x="650" y="2100" font-size="80" fill="white" font-family="Symbol, Times" font-style="italic">g</text>
+<polygon points='105.000,2005.000 105.000,2005.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='155.000,1635.000 155.000,1635.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='205.000,1305.000 205.000,1305.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='255.000,1015.000 255.000,1015.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='305.000,765.000 305.000,765.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='355.000,555.000 355.000,555.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='405.000,385.000 405.000,385.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='455.000,255.000 455.000,255.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='505.000,165.000 505.000,165.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='555.000,115.000 555.000,115.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='605.000,105.000 605.000,105.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='655.000,135.000 655.000,135.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='705.000,205.000 705.000,205.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='755.000,315.000 755.000,315.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='805.000,465.000 805.000,465.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='855.000,655.000 855.000,655.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='905.000,885.000 905.000,885.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='955.000,1155.000 955.000,1155.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='1005.000,1465.000 1005.000,1465.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='1055.000,1815.000 1055.000,1815.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='1105.000,2205.000 1105.000,2205.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:160;stroke-linejoin:round;stroke-opacity:0.6;' />
+<polygon points='115.000,1995.000 115.000,1995.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='165.000,1625.000 165.000,1625.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='215.000,1295.000 215.000,1295.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='265.000,1005.000 265.000,1005.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='315.000,755.000 315.000,755.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='365.000,545.000 365.000,545.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='415.000,375.000 415.000,375.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='465.000,245.000 465.000,245.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='515.000,155.000 515.000,155.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='565.000,105.000 565.000,105.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='615.000,95.000 615.000,95.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='665.000,125.000 665.000,125.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='715.000,195.000 715.000,195.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='765.000,305.000 765.000,305.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='815.000,455.000 815.000,455.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='865.000,645.000 865.000,645.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='915.000,875.000 915.000,875.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='965.000,1145.000 965.000,1145.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='1015.000,1455.000 1015.000,1455.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='1065.000,1805.000 1065.000,1805.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='1115.000,2195.000 1115.000,2195.090 ' style='fill:#FF0080;stroke:#FF8000;stroke-width:130;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='135.000,1975.000 135.000,1975.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='185.000,1605.000 185.000,1605.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='235.000,1275.000 235.000,1275.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='285.000,985.000 285.000,985.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='335.000,735.000 335.000,735.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='385.000,525.000 385.000,525.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='435.000,355.000 435.000,355.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='485.000,225.000 485.000,225.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='535.000,135.000 535.000,135.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='585.000,85.000 585.000,85.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='635.000,75.000 635.000,75.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='685.000,105.000 685.000,105.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='735.000,175.000 735.000,175.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='785.000,285.000 785.000,285.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='835.000,435.000 835.000,435.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='885.000,625.000 885.000,625.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='935.000,855.000 935.000,855.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='985.000,1125.000 985.000,1125.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='1035.000,1435.000 1035.000,1435.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='1085.000,1785.000 1085.000,1785.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+<polygon points='1135.000,2175.000 1135.000,2175.090 ' style='fill:#FF0080;stroke:#FFFFFF;stroke-width:60;stroke-linejoin:round;stroke-opacity:0.3;' />
+</svg>

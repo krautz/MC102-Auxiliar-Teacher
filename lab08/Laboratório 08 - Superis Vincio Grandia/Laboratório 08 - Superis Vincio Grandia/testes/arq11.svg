@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg  height='600' width='1000' xmlns='http://www.w3.org/2000/svg' >
+<rect height='600' width='1000' style='fill:#00ffff;' />
+<circle cx='500' cy='300' r="225.0" style='fill:#00ffff;stroke:#00ff00;stroke-width:50;' />
+<!--
+C
+T -400 -295
+R 45
+T 500 300
+C
+T -400 -295
+R 135
+T 500 300
+C
+T -400 -295
+R 270
+T 500 300
+-->
+<polygon points='375,270 625,270 625,320 375,320 375,320 ' style='fill:#00ff00;stroke:none;fill-opacity:1.0;' />
+</svg>

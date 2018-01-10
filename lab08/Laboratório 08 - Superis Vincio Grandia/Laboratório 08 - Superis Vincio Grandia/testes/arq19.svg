@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg  height='408' width='408' xmlns='http://www.w3.org/2000/svg' >
+<rect height='408' width='408' style='fill:#B38E50;' />
+<!--
+C
+T 288.5 288.5
+C
+R 180
+T 119.5 119.5
+C
+S 0.4142 0.4142
+T 119.5 119.5
+C
+R -45
+S 0.4142 0.4142
+T 84 204
+C
+S 1 -1
+T 288.5 119.5
+C
+R -45
+S -0.4142 0.4142
+T 324 204
+C
+S -0.4142 0.4142
+T 288.5 119.5
+C
+S -1 1
+T 119.5 288.5
+C
+S 0.4142 -0.4142
+T 119.5 288.5
+C
+S -0.4142 -0.4142
+T 288.5 288.5
+C
+R -135
+T 204 84.5
+C
+R 45
+S 0.4142 0.4142
+T 204 84.5
+C
+R 135
+T 84.5 204
+C
+R 45
+T 204 324
+C
+R -45
+T 324 204
+C
+R 45
+S 0.4142 -0.4142
+T 204 324
+-->
+<polygon points='0,0 119.5,0 0,119.5' style='fill: #DBDFC3;' />
+</svg>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg  width="217px" height="248px" xmlns='http://www.w3.org/2000/svg' >
+<rect width="217px" height="248px" style='fill:#000000;' />
+<path d="M8 1h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M16 1h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M24 1h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M31 1h4v1h-3v2h3v1h-1v1h-1v-1h-1v3h-1v-7z" fill="rgb(255,255,255)" />
+<path d="M39 1h5v1h-4v2h3v1h-3v2h4v1h-5v-7z" fill="rgb(255,255,255)" />
+<path d="M50 1h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M57 1h1v6h1v1h-3v-1h1v-4h-1v-1h1v-1z" fill="rgb(255,255,255)" />
+<path d="M64 1h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M79 1h1v3h3v-3h1v7h-1v-3h-3v3h-1v-7z" fill="rgb(255,255,255)" />
+<path d="M88 1h3v1h-1v5h1v1h-3v-1h1v-5h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M104 1h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M112 1h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M120 1h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M127 1h4v1h-3v2h3v1h-1v1h-1v-1h-1v3h-1v-7z" fill="rgb(255,255,255)" />
+<path d="M135 1h5v1h-4v2h3v1h-3v2h4v1h-5v-7z" fill="rgb(255,255,255)" />
+<path d="M152 1h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M160 1h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M168 1h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M175 1h4v1h-3v2h3v1h-1v1h-1v-1h-1v3h-1v-7z" fill="rgb(255,255,255)" />
+<path d="M183 1h5v1h-4v2h3v1h-3v2h4v1h-5v-7z" fill="rgb(255,255,255)" />
+<path d="M194 1h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M200 1h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M208 1h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M7 2h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M11 2h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M15 2h1v5h-1v-5z" fill="rgb(255,255,255)" />
+<path d="M19 2h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M23 2h1v5h-1v-5z" fill="rgb(255,255,255)" />
+<path d="M24 2h3v5h-3v-5z" fill="rgb(0,0,0)" />
+<path d="M27 2h1v5h-1v-5z" fill="rgb(255,255,255)" />
+<path d="M32 2h3v2h-3v-2z" fill="rgb(0,0,0)" />
+<path d="M35 2h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M49 2h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M65 2h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M103 2h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M107 2h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M111 2h1v5h-1v-5z" fill="rgb(255,255,255)" />
+<path d="M115 2h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M119 2h1v5h-1v-5z" fill="rgb(255,255,255)" />
+<path d="M120 2h3v5h-3v-5z" fill="rgb(0,0,0)" />
+<path d="M123 2h1v5h-1v-5z" fill="rgb(255,255,255)" />
+<path d="M128 2h3v2h-3v-2z" fill="rgb(0,0,0)" />
+<path d="M131 2h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M151 2h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M155 2h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M159 2h1v5h-1v-5z" fill="rgb(255,255,255)" />
+<path d="M163 2h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M167 2h1v5h-1v-5z" fill="rgb(255,255,255)" />
+<path d="M168 2h3v5h-3v-5z" fill="rgb(0,0,0)" />
+<path d="M171 2h1v5h-1v-5z" fill="rgb(255,255,255)" />
+<path d="M176 2h3v2h-3v-2z" fill="rgb(0,0,0)" />
+<path d="M179 2h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M193 2h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M199 2h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M203 2h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M209 2h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M48 3h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M66 3h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M192 3h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M210 3h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M8 4h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M47 4h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M67 4h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M95 4h5v1h-5v-1z" fill="rgb(255,255,255)" />
+<path d="M104 4h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M152 4h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M191 4h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M201 4h2v1h-2v-1z" fill="rgb(255,255,255)" />
+<path d="M211 4h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M11 5h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M48 5h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M66 5h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M107 5h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M155 5h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M192 5h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M200 5h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M210 5h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M7 6h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M19 6h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M34 6h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M49 6h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M65 6h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M103 6h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M115 6h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M130 6h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M151 6h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M163 6h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M178 6h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M193 6h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M199 6h1v1h4v1h-5v-2z" fill="rgb(255,255,255)" />
+<path d="M209 6h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M8 7h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M16 7h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M24 7h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M35 7h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M50 7h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M64 7h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M104 7h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M112 7h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M120 7h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M131 7h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M152 7h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M160 7h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M168 7h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M179 7h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M194 7h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M208 7h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M24 17h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M32 17h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M39 17h5v2h-1v-1h-4v-1z" fill="rgb(255,255,255)" />
+<path d="M48 17h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M88 17h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M96 17h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M104 17h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M112 17h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M23 18h1v3h1v1h-1v1h-1v-5z" fill="rgb(255,255,255)" />
+<path d="M24 18h3v1h-1v1h-1v1h-1v-3z" fill="rgb(0,0,0)" />
+<path d="M27 18h1v5h-1v-3h-1v-1h1v-1z" fill="rgb(255,255,255)" />
+<path d="M31 18h1v3h1v1h-1v1h-1v-5z" fill="rgb(255,255,255)" />
+<path d="M32 18h3v1h-1v1h-1v1h-1v-3z" fill="rgb(0,0,0)" />
+<path d="M35 18h1v5h-1v-3h-1v-1h1v-1z" fill="rgb(255,255,255)" />
+<path d="M47 18h1v3h1v1h-1v1h-1v-5z" fill="rgb(255,255,255)" />
+<path d="M48 18h3v1h-1v1h-1v1h-1v-3z" fill="rgb(0,0,0)" />
+<path d="M51 18h1v5h-1v-3h-1v-1h1v-1z" fill="rgb(255,255,255)" />
+<path d="M87 18h1v3h1v1h-1v1h-1v-5z" fill="rgb(255,255,255)" />
+<path d="M88 18h3v1h-1v1h-1v1h-1v-3z" fill="rgb(0,0,0)" />
+<path d="M91 18h1v5h-1v-3h-1v-1h1v-1z" fill="rgb(255,255,255)" />
+<path d="M95 18h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M96 18h3v2h-3v-2z" fill="rgb(0,0,0)" />
+<path d="M99 18h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M103 18h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M104 18h3v2h-3v-2z" fill="rgb(0,0,0)" />
+<path d="M107 18h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M111 18h1v3h1v1h-1v1h-1v-5z" fill="rgb(255,255,255)" />
+<path d="M112 18h3v1h-1v1h-1v1h-1v-3z" fill="rgb(0,0,0)" />
+<path d="M115 18h1v5h-1v-3h-1v-1h1v-1z" fill="rgb(255,255,255)" />
+<path d="M42 19h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M25 20h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M26 20h1v3h-3v-1h1v-1h1v-1z" fill="rgb(0,0,0)" />
+<path d="M33 20h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M34 20h1v3h-3v-1h1v-1h1v-1z" fill="rgb(0,0,0)" />
+<path d="M41 20h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M49 20h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M50 20h1v3h-3v-1h1v-1h1v-1z" fill="rgb(0,0,0)" />
+<path d="M89 20h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M90 20h1v3h-3v-1h1v-1h1v-1z" fill="rgb(0,0,0)" />
+<path d="M96 20h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M104 20h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M113 20h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M114 20h1v3h-3v-1h1v-1h1v-1z" fill="rgb(0,0,0)" />
+<path d="M40 21h1v3h-1v-3z" fill="rgb(255,255,255)" />
+<path d="M95 21h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M96 21h3v2h-3v-2z" fill="rgb(0,0,0)" />
+<path d="M99 21h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M103 21h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M104 21h3v2h-3v-2z" fill="rgb(0,0,0)" />
+<path d="M107 21h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M24 23h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M32 23h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M48 23h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M88 23h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M96 23h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M104 23h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M112 23h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M 34 184 L 34 185 L 33 185 L 33 186 L 32 186 L 32 187 L 31 187 L 31 188 L 30 188 L 30 200 L 35 200 L 35 198 L 36 198 L 36 197 L 37 197 L 37 196 L 39 196 L 39 195 L 38 195 L 38 193 L 39 193 L 39 192 L 38 192 L 38 191 L 37 191 L 37 192 L 36 192 L 36 191 L 35 191 L 35 190 L 36 190 L 36 189 L 35 189 L 35 188 L 36 188 L 36 187 L 37 187 L 37 184 L 34 184 z M 44 184 L 44 185 L 45 185 L 45 186 L 44 186 L 44 187 L 45 187 L 45 188 L 44 188 L 44 187 L 43 187 L 43 188 L 42 188 L 42 189 L 43 189 L 43 192 L 44 192 L 44 191 L 45 191 L 45 190 L 46 190 L 46 191 L 45 191 L 45 193 L 46 193 L 46 195 L 45 195 L 45 196 L 44 196 L 44 197 L 46 197 L 46 200 L 52 200 L 52 188 L 51 188 L 51 187 L 50 187 L 50 186 L 49 186 L 49 185 L 48 185 L 48 184 L 44 184 z M 35 185 L 36 185 L 36 186 L 35 186 L 35 185 z " fill="rgb(32,255,32)" />
+<path d="M79 184h14v1h1v1h1v1h1v1h1v12h-6v-2h-1v-1h-1v-1h-7v1h-1v1h-1v2h-5v-12 h1v-1h1v-1h1v-1h1v-1z" fill="rgb(32,255,32)" />
+<path d="M 124 184 L 124 185 L 123 185 L 123 186 L 122 186 L 122 187 L 121 187 L 121 189 L 120 189 L 120 190 L 121 190 L 121 191 L 122 191 L 122 193 L 123 193 L 123 194 L 122 194 L 122 195 L 123 195 L 123 196 L 122 196 L 122 195 L 121 195 L 121 196 L 120 196 L 120 200 L 125 200 L 125 197 L 127 197 L 127 196 L 126 196 L 126 195 L 125 195 L 125 193 L 126 193 L 126 192 L 127 192 L 127 191 L 128 191 L 128 192 L 131 192 L 131 191 L 132 191 L 132 190 L 133 190 L 133 191 L 132 191 L 132 193 L 133 193 L 133 195 L 132 195 L 132 196 L 134 196 L 134 197 L 135 197 L 135 198 L 136 198 L 136 200 L 142 200 L 142 195 L 141 195 L 141 194 L 140 194 L 140 193 L 141 193 L 141 192 L 140 192 L 140 191 L 141 191 L 141 190 L 142 190 L 142 189 L 141 189 L 141 187 L 140 187 L 140 186 L 139 186 L 139 185 L 138 185 L 138 184 L 124 184 z M 139 189 L 140 189 L 140 190 L 139 190 L 139 189 z M 125 190 L 126 190 L 126 191 L 125 191 L 125 190 z M 129 190 L 130 190 L 130 191 L 129 191 L 129 190 z " fill="rgb(32,255,32)" />
+<path d="M 169 184 L 169 185 L 168 185 L 168 186 L 167 186 L 167 187 L 166 187 L 166 188 L 165 188 L 165 200 L 170 200 L 170 198 L 171 198 L 171 197 L 172 197 L 172 196 L 175 196 L 175 195 L 174 195 L 174 193 L 175 193 L 175 192 L 176 192 L 176 191 L 177 191 L 177 192 L 180 192 L 180 191 L 181 191 L 181 190 L 182 190 L 182 191 L 181 191 L 181 193 L 182 193 L 182 195 L 181 195 L 181 196 L 180 196 L 180 198 L 181 198 L 181 197 L 182 197 L 182 198 L 181 198 L 181 200 L 187 200 L 187 188 L 186 188 L 186 187 L 185 187 L 185 186 L 184 186 L 184 185 L 183 185 L 183 184 L 169 184 z M 174 190 L 175 190 L 175 191 L 174 191 L 174 190 z M 178 190 L 179 190 L 179 191 L 178 191 L 178 190 z " fill="rgb(32,255,32)" />
+<path d="M109 200h1v4h-1v-4z" fill="rgb(32,255,32)" />
+<path d="M109 208h1v1h1v2h4v1h1v4h-13v-4h1v-1h4v-2h1v-1z" fill="rgb(32,255,32)" />
+<path d="M 0 231 L 0 232 L 30 232 L 30 233 L 29 233 L 29 235 L 25 235 L 25 236 L 24 236 L 24 240 L 37 240 L 37 236 L 36 236 L 36 235 L 32 235 L 32 233 L 31 233 L 31 232 L 46 232 L 46 233 L 45 233 L 45 235 L 41 235 L 41 236 L 40 236 L 40 240 L 53 240 L 53 236 L 52 236 L 52 235 L 48 235 L 48 233 L 47 233 L 47 232 L 66 232 L 111 232 L 198 232 L 217 232 L 217 231 L 198 231 L 111 231 L 66 231 L 0 231 z " fill="rgb(32,255,32)"  />
+<path d="M7 233h5v2h-1v-1h-4v-1z" fill="rgb(255,255,255)" />
+<path d="M136 233h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M143 233h4v1h-3v2h3v1h-1v1h-1v-1h-1v3h-1v-7z" fill="rgb(255,255,255)" />
+<path d="M151 233h5v1h-4v2h3v1h-3v2h4v1h-5v-7z" fill="rgb(255,255,255)" />
+<path d="M159 233h4v1h-3v5h3v1h-4v-7z" fill="rgb(255,255,255)" />
+<path d="M168 233h3v1h-1v5h1v1h-3v-1h1v-5h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M175 233h5v1h-2v6h-1v-6h-2v-1z" fill="rgb(255,255,255)" />
+<path d="M192 233h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M200 233h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M135 234h1v5h-1v-5z" fill="rgb(255,255,255)" />
+<path d="M139 234h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M144 234h3v2h-3v-2z" fill="rgb(0,0,0)" />
+<path d="M147 234h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M160 234h3v5h-3v-5z" fill="rgb(0,0,0)" />
+<path d="M163 234h1v5h-1v-5z" fill="rgb(255,255,255)" />
+<path d="M191 234h1v3h1v1h-1v1h-1v-5z" fill="rgb(255,255,255)" />
+<path d="M192 234h3v1h-1v1h-1v1h-1v-3z" fill="rgb(0,0,0)" />
+<path d="M195 234h1v5h-1v-3h-1v-1h1v-1z" fill="rgb(255,255,255)" />
+<path d="M199 234h1v3h1v1h-1v1h-1v-5z" fill="rgb(255,255,255)" />
+<path d="M200 234h3v1h-1v1h-1v1h-1v-3z" fill="rgb(0,0,0)" />
+<path d="M203 234h1v5h-1v-3h-1v-1h1v-1z" fill="rgb(255,255,255)" />
+<path d="M10 235h1v2h-2v-1h1v-1z" fill="rgb(255,255,255)" />
+<path d="M193 236h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M194 236h1v3h-3v-1h1v-1h1v-1z" fill="rgb(0,0,0)" />
+<path d="M201 236h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M202 236h1v3h-3v-1h1v-1h1v-1z" fill="rgb(0,0,0)" />
+<path d="M11 237h1v2h-1v-2z" fill="rgb(255,255,255)" />
+<path d="M7 238h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M139 238h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M146 238h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M8 239h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M136 239h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M147 239h1v1h-1v-1z" fill="rgb(255,255,255)" />
+<path d="M192 239h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<path d="M200 239h3v1h-3v-1z" fill="rgb(255,255,255)" />
+<!--
+C
+C
+T 16 0
+C
+T 32 0
+C
+S -1 1
+T 121 0
+C
+T 64 0
+C
+T 80 0
+C
+R 180
+T 169 200
+C
+T 112 0
+C
+T 128 0
+C
+T 144 0
+C
+T 160 1
+C
+R 45
+T 22 +168
+-->
+<polygon points=' 37,64 39,64 39,65 40,65 40,66 41,66 41,67 42,67 42,69 40,69 40,70 39,70 39,69 37,69 37,70 36,70 36,69 34,69 34,67 35,67 35,66 36,66 36,65 37,65 37,64' style='fill:#fefefe;' />
+<polygon points=' 36,67 37,67 37,68 36,68 36,67' style='fill:#020202;' />
+<polygon points=' 39,67 40,67 40,68 39,68 39,67' style='fill:#020202;' />
+<polygon points=' 37,69 39,69 39,70 37,70 37,69' style='fill:#020202;' />
+<polygon points=' 35,70 36,70 36,71 35,71 35,70' style='fill:#020202;' />
+<polygon points=' 36,70 37,70 37,71 36,71 36,70' style='fill:#020202;' />
+<polygon points=' 37,70 39,70 39,71 37,71 37,70' style='fill:#020202;' />
+<polygon points=' 39,70 40,70 40,71 39,71 39,70' style='fill:#020202;' />
+<polygon points=' 40,70 41,70 41,71 40,71 40,70' style='fill:#020202;' />
+<polygon points=' 34,71 35,71 35,72 34,72 34,71' style='fill:#020202;' />
+<polygon points=' 36,71 37,71 37,72 36,72 36,71' style='fill:#020202;' />
+<polygon points=' 39,71 40,71 40,72 39,72 39,71' style='fill:#020202;' />
+<polygon points=' 41,71 42,71 42,72 41,72 41,71' style='fill:#020202;' />
+<polygon points=' 33,80 34,80 34,81 33,81 33,80' style='fill:#020202;' />
+<polygon points=' 39,80 40,80 40,81 39,81 39,80' style='fill:#020202;' />
+<polygon points=' 34,81 35,81 35,82 38,82 38,81 39,81 39,82 40,82 40,83 41,83 41,84 42,84 42,87 41,87 41,85 40,85 40,87 39,87 39,86 34,86 34,87 33,87 33,85 32,85 32,87 31,87 31,84 32,84 32,83 33,83 33,82 34,82 34,81' style='fill:#fefefe;' />
+<polygon points=' 34,83 35,83 35,84 34,84 34,83' style='fill:#020202;' />
+<polygon points=' 38,83 39,83 39,84 38,84 38,83' style='fill:#020202;' />
+<polygon points=' 34,87 36,87 36,88 34,88 34,87' style='fill:#020202;' />
+<polygon points=' 37,87 39,87 39,88 37,88 37,87' style='fill:#020202;' />
+<polygon points=' 33,96 34,96 34,97 33,97 33,96' style='fill:#020202;' />
+<polygon points=' 39,96 40,96 40,97 39,97 39,96' style='fill:#020202;' />
+<polygon points=' 34,97 35,97 35,98 38,98 38,97 39,97 39,98 40,98 40,99 41,99 41,100 42,100 42,103 41,103 41,101 40,101 40,103 39,103 39,102 34,102 34,103 33,103 33,101 32,101 32,103 31,103 31,100 32,100 32,99 33,99 33,98 34,98 34,97' style='fill:#fefefe;' />
+<polygon points=' 34,99 35,99 35,100 34,100 34,99' style='fill:#020202;' />
+<polygon points=' 38,99 39,99 39,100 38,100 38,99' style='fill:#020202;' />
+<polygon points=' 34,103 36,103 36,104 34,104 34,103' style='fill:#020202;' />
+<polygon points=' 37,103 39,103 39,104 37,104 37,103' style='fill:#020202;' />
+<polygon points=' 34,112 38,112 38,113 41,113 41,114 42,114 42,117 40,117 40,118 41,118 41,119 40,119 40,120 38,120 38,119 39,119 39,118 37,118 37,117 35,117 35,118 33,118 33,119 34,119 34,120 32,120 32,119 31,119 31,118 32,118 32,117 30,117 30,114 31,114 31,113 34,113 34,112' style='fill:#fefefe;' />
+<polygon points=' 33,115 35,115 35,116 33,116 33,115' style='fill:#020202;' />
+<polygon points=' 37,115 39,115 39,116 37,116 37,115' style='fill:#020202;' />
+<polygon points=' 35,117 37,117 37,118 35,118 35,117' style='fill:#020202;' />
+<polygon points=' 35,118 37,118 37,119 35,119 35,118' style='fill:#020202;' />
+<polygon points=' 34,128 38,128 38,129 41,129 41,130 42,130 42,133 40,133 40,134 41,134 41,135 40,135 40,136 38,136 38,135 39,135 39,134 37,134 37,133 35,133 35,134 33,134 33,135 34,135 34,136 32,136 32,135 31,135 31,134 32,134 32,133 30,133 30,130 31,130 31,129 34,129 34,128' style='fill:#fefefe;' />
+<polygon points=' 33,131 35,131 35,132 33,132 33,131' style='fill:#020202;' />
+<polygon points=' 37,131 39,131 39,132 37,132 37,131' style='fill:#020202;' />
+<polygon points=' 35,133 37,133 37,134 35,134 35,133' style='fill:#020202;' />
+<polygon points=' 35,134 37,134 37,135 35,135 35,134' style='fill:#020202;' />
+</svg>

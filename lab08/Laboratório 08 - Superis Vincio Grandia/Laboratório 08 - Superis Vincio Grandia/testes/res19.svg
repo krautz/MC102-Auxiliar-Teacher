@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg  height='408' width='408' xmlns='http://www.w3.org/2000/svg' >
+<rect height='408' width='408' style='fill:#B38E50;' />
+<polygon points='288.500,288.500 408.000,288.500 288.500,408.000 ' style='fill: #DBDFC3;' />
+<polygon points='119.500,119.500 0.000,119.500 119.500,0.000 ' style='fill: #DBDFC3;' />
+<polygon points='119.500,119.500 168.997,119.500 119.500,168.997 ' style='fill: #DBDFC3;' />
+<polygon points='84.000,204.000 119.000,169.000 119.000,239.000 ' style='fill: #DBDFC3;' />
+<polygon points='288.500,119.500 408.000,119.500 288.500,0.000 ' style='fill: #DBDFC3;' />
+<polygon points='324.000,204.000 289.000,169.000 289.000,239.000 ' style='fill: #DBDFC3;' />
+<polygon points='288.500,119.500 239.003,119.500 288.500,168.997 ' style='fill: #DBDFC3;' />
+<polygon points='119.500,288.500 0.000,288.500 119.500,408.000 ' style='fill: #DBDFC3;' />
+<polygon points='119.500,288.500 168.997,288.500 119.500,239.003 ' style='fill: #DBDFC3;' />
+<polygon points='288.500,288.500 239.003,288.500 288.500,239.003 ' style='fill: #DBDFC3;' />
+<polygon points='204.000,84.500 119.501,0.001 288.499,0.001 ' style='fill: #DBDFC3;' />
+<polygon points='204.000,84.500 239.000,119.500 169.000,119.500 ' style='fill: #DBDFC3;' />
+<polygon points='84.500,204.000 0.001,288.499 0.001,119.501 ' style='fill: #DBDFC3;' />
+<polygon points='204.000,324.000 288.499,408.499 119.501,408.499 ' style='fill: #DBDFC3;' />
+<polygon points='324.000,204.000 408.499,119.501 408.499,288.499 ' style='fill: #DBDFC3;' />
+<polygon points='204.000,324.000 239.000,289.000 169.000,289.000 ' style='fill: #DBDFC3;' />
+</svg>
